@@ -4,7 +4,7 @@
 [![bundle size](https://img.shields.io/bundlephobia/minzip/<PACKAGE_NAME>.svg)](https://bundlephobia.com/result?p=modal-image) 
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-> <SHORT A lightweight React component for displaying images in a modal (drop-in replacement for `<img />`) which is CSS-driven and opens without re-rendering the original image.>  
+> SHORT A lightweight React component for displaying images in a modal (drop-in replacement for `<img />`) which is CSS-driven and opens without re-rendering the original image.  
 
 ---
 
