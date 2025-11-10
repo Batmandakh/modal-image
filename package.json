@@ -4,11 +4,16 @@
   "version": "0.0.1",
   "type": "module",
   "license": "MIT",
+  "author": "Batmandakh",
+  "keywords": ["react", "image", "modal"],
   "main": "dist/modal-image.umd.js",
   "module": "dist/modal-image.es.js",
   "files": [
     "dist"
   ],
+  "publishConfig": {
+    "access":"public"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
