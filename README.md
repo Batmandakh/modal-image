@@ -1,7 +1,3 @@
----
-layout: documentation
-title: Can i have front matter here?
----
 # <modal-image>
 
 [![npm version](https://img.shields.io/npm/v/<PACKAGE_NAME>.svg)](https://www.npmjs.com/package/modal-image) 
