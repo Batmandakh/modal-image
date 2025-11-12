@@ -1,7 +1,7 @@
 # <modal-image>
 
-[![npm version](https://img.shields.io/npm/v/<PACKAGE_NAME>.svg)](https://www.npmjs.com/package/modal-image) 
-[![bundle size](https://img.shields.io/bundlephobia/minzip/<PACKAGE_NAME>.svg)](https://bundlephobia.com/result?p=modal-image) 
+[![npm version](https://img.shields.io/npm/v/modal-image.svg)](https://www.npmjs.com/package/modal-image) 
+[![bundle size](https://img.shields.io/bundlephobia/minzip/modal-image.svg)](https://bundlephobia.com/result?p=modal-image) 
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 A lightweight image component for React (drop-in replacement for `<img />`) with functionality to display image in a modal with CSS and opens without re-rendering the original image. Modal-image is a pass-through layer of standard HTML image tag or `<img />` jsx, and accepts all standard properties. So, anyone can start using it hassle free.
