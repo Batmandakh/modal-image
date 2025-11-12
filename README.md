@@ -60,7 +60,7 @@ pnpm add modal-image
 
 ## 🏒 Usage
 
-Just import modal-image to start using like any react component. Also, feel free to import as any name like "import { ModalImage as Img } from 'modal-image'" ff you prefer more short and memorizable experience.
+> Just import modal-image to start using like any react component. Also, feel free to import as any name like "import { ModalImage as Img } from 'modal-image'" ff you prefer more short and memorizable experience.
 
 ```
 import ModalImage from 'modal-image'
@@ -78,7 +78,7 @@ import { ModalImage as Image } from 'modal-image'
 
 ---
 
-## 📜 License
+## 📃 License
 MIT License
 
 ---
