@@ -88,7 +88,9 @@ modal-image is licensed under MIT license
 ---
 
 ## 📚 Links
-- [link to reference](https://html.spec.whatwg.org/multipage/images.html#srcset-attribute)
-- https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images
-- https://dev.to/razbakov/responsive-images-best-practices-in-2025-4dlb
-- 
+- [Lightbox 2](https://lokeshdhakar.com/projects/lightbox2/)
+- [React Modal Image](https://github.com/aautio/react-modal-image)
+- [Lucide icons](https://lucide.dev/icons/)
+- [HTML srcset attribute](https://html.spec.whatwg.org/multipage/images.html#srcset-attribute)
+- [Using responsive images in HTML](https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images)
+- [Responsive Images: Best Practices in 2025](https://dev.to/razbakov/responsive-images-best-practices-in-2025-4dlb)
