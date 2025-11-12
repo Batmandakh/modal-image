@@ -47,10 +47,25 @@
 
 ```bash
 # npm
-npm install <PACKAGE_NAME>
+npm install modal-image
 
 # yarn
-yarn add <PACKAGE_NAME>
+yarn add modal-image
 
 # pnpm
-pnpm add <PACKAGE_NAME>
+pnpm add modal-image
+
+---
+
+## Usage
+
+```
+import ModalImage from 'modal-image'
+
+<ModalImage src='path/to/image.jpg' />
+```
+
+---
+
+## License
+MIT License
