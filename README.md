@@ -4,7 +4,8 @@
 [![bundle size](https://img.shields.io/bundlephobia/minzip/<PACKAGE_NAME>.svg)](https://bundlephobia.com/result?p=modal-image) 
 [![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
-> A lightweight image component for React (drop-in replacement for <img />) with functionality to display image in a modal with CSS and opens without re-rendering the original image.
+> A lightweight image component for React (drop-in replacement for <img />) with functionality to display image in a modal with CSS and opens without re-rendering the original image. Modal-image is a pass-through layer for HTML image (<img />) tag, and it accepts all standard properties of image tag. So, anyone can start using hassle free...
+
 
 ---
 
@@ -17,12 +18,12 @@
 - [API / Props](#api--props)
 - [Examples](#examples)
 - [Development](#development)
-- [Testing](#testing)
 - [Publishing](#publishing)
 - [Contributing](#contributing)
 - [License](#license)
 - [Changelog](#changelog)
 - [Support](#support)
+- [References](#references)
 
 ---
 
@@ -57,7 +58,9 @@ pnpm add modal-image
 
 ---
 
-## Usage
+## 🏒 Usage
+
+Just import modal-image to start using like any react component. Also, feel free to import as any name like "import { ModalImage as Img } from 'modal-image'" ff you prefer more short and memorizable experience.
 
 ```
 import ModalImage from 'modal-image'
@@ -65,7 +68,20 @@ import ModalImage from 'modal-image'
 <ModalImage src='path/to/image.jpg' />
 ```
 
+or
+
+```
+import { ModalImage as Image } from 'modal-image'
+
+<Image src='path/to/image.jpg' />
+```
+
 ---
 
-## License
+## 📜 License
 MIT License
+
+---
+
+## 📚 References
+- link to reference
