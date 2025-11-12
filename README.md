@@ -82,9 +82,13 @@ Most of the time presence of option is enough or if you prefer verbosity, you co
 ---
 
 ## 📃 License
-MIT License
+
+modal-image is licensed under MIT license
 
 ---
 
-## 📚 References
-- link to reference
+## 📚 Links
+- [link to reference](https://html.spec.whatwg.org/multipage/images.html#srcset-attribute)
+- https://developer.mozilla.org/en-US/docs/Web/HTML/Guides/Responsive_images
+- https://dev.to/razbakov/responsive-images-best-practices-in-2025-4dlb
+- 
