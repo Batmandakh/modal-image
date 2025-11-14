@@ -77,7 +77,11 @@ Most of the time presence of option is enough or if you prefer verbosity, you co
 ```
 <Img src='again/another/downloadableImage.jpg' showDownload={true} />
 ```
+:::tip[My tip]
 
+Use this awesome feature option
+
+:::
 
 ---
 
